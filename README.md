@@ -15,26 +15,17 @@
 
 ### Languages and Tools:
 
-<div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />
 <img align="left" alt="Substance Designer" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-substance-designer-2521751-2132643.png" />
 <img align="left" alt="Blender" width="26px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Blender.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/493px-Adobe_Photoshop_CC_icon.svg.png" />
-</div>
 
-<br />
-
-<div>
 <img align="left" alt="Trello" width="26px" src="https://user-images.githubusercontent.com/13432607/29981988-82cec158-8f58-11e7-9f26-473079c2a9b1.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</div>
 
-<br />
-
-<div>
 <img align="left" alt="CSharp" width="26px" src="https://w0.pngwave.com/png/328/221/c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-png-clip-art.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -42,7 +33,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-</div>
 
 <br />
 <br />
