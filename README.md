@@ -39,8 +39,6 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lukakldiashvili&show_icons=true&hide_border=true" />
-
 [linkedin]: https://linkedin.com/in/luka-kldiashvili
 [website]: https://www.lukakldiashvili.com/home
 
