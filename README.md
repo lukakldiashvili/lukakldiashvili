@@ -37,8 +37,6 @@
 <br />
 <br />
 
----
-
 [linkedin]: https://linkedin.com/in/luka-kldiashvili
 [website]: https://www.lukakldiashvili.com/home
 
