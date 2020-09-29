@@ -2,7 +2,7 @@
 
 ## I'm a Student and Game Developer!
 - 🔭 I’m currently working on a personal projects!
-- 🌱 I’m currently learning '3D shading and materials'
+- 🌱 I’m currently learning 'Rendering and Networking'
 - 🥅 2020 Goals: Release a game on mobile platform
 
 ### Connect with me:
