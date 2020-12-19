@@ -1,8 +1,8 @@
 ### Hi there, I'm Luka - aka [lukakldiashvili][website] 👋
 
 ## I'm a Student and Game Developer!
-- 🔭 I’m currently working on a personal projects!
-- 🌱 I’m currently learning 'Rendering and Networking'
+- 🔭 I’m currently working at a small studio and on personal projects!
+- 🌱 I’m currently learning 'Networking and new Unity features'
 - 🥅 2020 Goals: Release a game on mobile platform
 
 ### Connect with me:
