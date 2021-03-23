@@ -2,7 +2,7 @@
 
 ## I'm a Student and Game Developer!
 - 🔭 I’m currently working at a small studio and on personal projects!
-- 🌱 I’m currently learning 'Networking and Unity stuff'
+- 🌱 I’m currently learning 'Networking and Rendering'
 - 🥅 2021 Goals: Start open source projects
 
 ### Connect with me:
