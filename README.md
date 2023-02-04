@@ -9,5 +9,5 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/luka-kldiashvili
-[website]: https://lukakldiashvili.com/home
+[website]: https://lukakldiashvili.com/
 [itchio]: https://lukakldiashvili.itch.io/
