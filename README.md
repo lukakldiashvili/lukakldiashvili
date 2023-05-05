@@ -1,4 +1,7 @@
-### Hi there, I'm Luka - aka [lukakldiashvili][website] 👋 <br> I'm a Student and Game Developer!
+### Hi there, I'm Luka - aka [lukakldiashvili][website] 👋 
+<br> I am a Unity Developer and enthusiast.
+<br> I usually publish repositories such as editor tools and rendering tricks for Unity.
+
 ### Connect with me:
 
 [<img align="left" alt="luka-kldiashvili | Personal Website" width="22px" src="https://raw.githubusercontent.com/lukakldiashvili/lukakldiashvili/master/Logo.png" />][website]
